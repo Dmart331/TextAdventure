@@ -1,0 +1,8 @@
+			LeaveShipRoom	
+	FindGoldRoom	EmptyCorridorPath	GiantSpiderRoom	EmptyCorridorPath
+		EmptyCorridorPath		
+		EmptyCorridorPath		
+GiantSpiderRoom	EmptyCorridorPath	StartingRoom	EmptyCorridorPath	FindDaggerRoom
+		FindGoldRoom		
+		EmptyCorridorPath	OrcRoom	FindGoldRoom		
+		OrcRoom		
